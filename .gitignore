@@ -6,3 +6,6 @@ schemas/*.yaml
 stage/go/go-sdk/pkg/openai/*
 !stage/go/go-sdk/pkg/openai/api_client_test.go
 .DS_Store
+
+# Tools
+.vscode/mcp.json
